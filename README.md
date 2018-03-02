@@ -5,8 +5,8 @@
 
 ## Referências
 
-https://github.com/nazareno/ciencia-de-dados-1
-https://github.com/jakevdp/PythonDataScienceHandbook
-https://github.com/flaviovdf/evcomp2018
-https://github.com/briandalessandro/DataScienceCourse
-http://data8.org/
+- [Curso UFCG](https://github.com/nazareno/ciencia-de-dados-1)
+- [Livro Aberto JakeVDP](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Dados EVComp](https://github.com/flaviovdf/evcomp2018)
+- [Curso Nyu](https://github.com/briandalessandro/DataScienceCourse)
+- [data 8 - Curso Caltech/Berkley](http://data8.org/)
