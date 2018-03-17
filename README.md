@@ -25,7 +25,7 @@ Aulas: --
 | 08   |          | Testes de Hipótese p-vals (Permutation)  |              |
 | 09   |          | Testes de Hipótese ICs (Bootstrap)       |              |
 | 10   |          | Poder e Testes Múltiplos                 |              |
-|      |          | **Interpretando Dados**                  |              |
+|      |          | **Interpretando com Modelos Simples**    |              |
 | 11   |          | Matrizes e Revisão ALG                   |              |
 | 12   |          | Verossimilhança de Dados                 |              |
 | 13   |          | Vetorização (Gradient Descent)           |              |
