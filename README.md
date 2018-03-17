@@ -43,8 +43,8 @@ Aulas: --
 | 24   |          | Classificação 02 Florestas e Ensembles   |              |
 | 25   |          | Dimensionalidade 01 PCA                  |              |
 | 26   |          | Dimensionalidade 02 TSNE                 |              |
-| 27   |          | Features Textuais                        |              |
-| 28   |          | Features de Sinais                       |              |
+| 27   |          | Estudo de Caso                           |              |
+| 28   |          | Estudo de Caso                           |              |
 | 29   |          | Apresentação de Projetos                 |              |
 | 30   |          | Apresentação de Projetos                 |              |
 
