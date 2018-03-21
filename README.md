@@ -12,41 +12,41 @@ Aulas: --
 
 ## Calendário
 
-| Aula | Data     | **Assunto**                              | Informações  |
-|------|----------|------------------------------------------|--------------|
-|      |          | **Basics**                               |              |
-| 01   |          | Apresentação do Curso e Python 101       |              |
-| 02   |          | Tabelas e Sumarização de Colunas         |              |
-| 03   |          | Correlação                               |              |
-| 04   |          | Simpsons Paradox                         |              |
-| 05   |          | Causalidade 01                           |              |
-| 06   |          | Causalidade 02                           |              |
-| 07   |          | Método Científico                        |              |
-| 08   |          | Testes de Hipótese p-vals (Permutation)  |              |
-| 09   |          | Testes de Hipótese ICs (Bootstrap)       |              |
-| 10   |          | Poder e Testes Múltiplos                 |              |
-|      |          | **Interpretando com Modelos Simples**    |              |
-| 11   |          | Matrizes e Revisão ALG                   |              |
-| 12   |          | Verossimilhança de Dados                 |              |
-| 13   |          | Vetorização (Gradient Descent)           |              |
-| 14   |          | Regressão Linear                         |              |
-| 15   |          | Regularização                            |              |
-| 16   |          | Lasso                                    |              |
-| 17   |          | Regressão Logística                      |              |
-| 18   |          | Interpretando coeficientes (div 4 rule)  |              |
-| 19   |          | Histogramas e CDFs                       |              |
-| 20   |          | Boas práticas de Visualização            |              |
-|      |          | **Machine Larning Básico**               |              |
-| 21   |          | Clustering 01 K-Means                    |              |
-| 22   |          | Clustering 02 Gaussian Mixtures          |              |
-| 23   |          | Classificação 01 Árvores                 |              |
-| 24   |          | Classificação 02 Florestas e Ensembles   |              |
-| 25   |          | Dimensionalidade 01 PCA                  |              |
-| 26   |          | Dimensionalidade 02 TSNE                 |              |
-| 27   |          | Estudo de Caso                           |              |
-| 28   |          | Estudo de Caso                           |              |
-| 29   |          | Apresentação de Projetos                 |              |
-| 30   |          | Apresentação de Projetos                 |              |
+| Aula | Data     | **Assunto**                                    | Informações  |
+|------|----------|------------------------------------------------|--------------|
+|      |          | **Basics**                                     |              |
+| 01   |          | Apresentação do Curso e Python 101             |              |
+| 02   |          | Tabelas e Sumarização de Colunas               |              |
+| 03   |          | Correlação                                     |              |
+| 04   |          | Simpsons Paradox                               |              |
+| 05   |          | Causalidade 01                                 |              |
+| 06   |          | Causalidade 02                                 |              |
+| 07   |          | Método Científico                              |              |
+| 08   |          | Testes de Hipótese p-vals (Permutation)        |              |
+| 09   |          | Testes de Hipótese ICs (Bootstrap)             |              |
+| 10   |          | Poder e Testes Múltiplos                       |              |
+|      |          | **Interpretando dados com Modelos Simples**    |              |
+| 11   |          | Matrizes e Revisão ALG                         |              |
+| 12   |          | Verossimilhança de Dados                       |              |
+| 13   |          | Vetorização (Gradient Descent)                 |              |
+| 14   |          | Regressão Linear                               |              |
+| 15   |          | Regularização                                  |              |
+| 16   |          | Lasso                                          |              |
+| 17   |          | Regressão Logística                            |              |
+| 18   |          | Interpretando coeficientes (div 4 rule)        |              |
+| 19   |          | Histogramas e CDFs                             |              |
+| 20   |          | Boas práticas de Visualização                  |              |
+|      |          | **Machine Larning Básico**                     |              |
+| 21   |          | Clustering 01 K-Means                          |              |
+| 22   |          | Clustering 02 Gaussian Mixtures                |              |
+| 23   |          | Classificação 01 Árvores                       |              |
+| 24   |          | Classificação 02 Florestas e Ensembles         |              |
+| 25   |          | Dimensionalidade 01 PCA                        |              |
+| 26   |          | Dimensionalidade 02 TSNE                       |              |
+| 27   |          | Estudo de Caso                                 |              |
+| 28   |          | Estudo de Caso                                 |              |
+| 29   |          | Apresentação de Projetos                       |              |
+| 30   |          | Apresentação de Projetos                       |              |
 
 ## TPs
 
