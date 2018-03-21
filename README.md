@@ -50,7 +50,18 @@ Aulas: --
 
 ## TPs
 
+
 ## Bibliografia
+
+  1. [Computational and Inferential Thinking: The Foundations of Data Science](http://www.inferentialthinking.com/) <br>
+     Ani Adhikari and John DeNero <br>
+     **Apenas em inglês. Aberto!**
+
+  1. [Fundamentos Estatísticos para Ciência da Computação](http://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) <br>
+     Renato Assunção <br>
+     **Português**
+
+## Mais material
 
 - [Curso UFCG](https://github.com/nazareno/ciencia-de-dados-1)
 - [Livro Aberto JakeVDP](https://github.com/jakevdp/PythonDataScienceHandbook)
