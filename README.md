@@ -17,8 +17,8 @@ Aulas: --
 |      |          | **Basics**                                     |              |
 | 01   |          | Apresentação do Curso e Python 101             |              |
 | 02   |          | Tabelas e Sumarização de Colunas               |              |
-| 03   |          | Correlação                                     |              |
-| 04   |          | Simpsons Paradox                               |              |
+| 03   |          | Correlação / Simpsons Paradox                  |              |
+| 04   |          | Inferência Bayesiana                           |              |
 | 05   |          | Causalidade 01                                 |              |
 | 06   |          | Causalidade 02                                 |              |
 | 07   |          | Método Científico                              |              |
@@ -64,6 +64,9 @@ Aulas: --
   1. [Elements of Causal Inference: Foundations and Learning Algorithms ](http://www.math.ku.dk/~peters/elements.html) <br>
      Jonas Peters, Dominik Janzing and Bernhard Schölkopf  <br>
      **Apenas em inglês. Aberto!**
+     
+  1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/) <br>
+     Alex Reinhart
 
 ## Mais material
 
