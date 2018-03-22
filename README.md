@@ -28,19 +28,19 @@ Aulas: --
 |      |          | **Interpretando dados com Modelos Simples**    |              |
 | 11   |          | Matrizes e Revisão ALG                         |              |
 | 12   |          | Verossimilhança de Dados                       |              |
-| 13   |          | Vetorização (Gradient Descent)                 |              |
-| 14   |          | Regressão Linear                               |              |
+| 13   |          | Regressão Linear                               |              |
+| 14   |          | Gradient Descent e Newton-Raphson (Fittig/Vet) |              |
 | 15   |          | Regularização                                  |              |
 | 16   |          | Lasso                                          |              |
 | 17   |          | Regressão Logística                            |              |
 | 18   |          | Interpretando coeficientes (div 4 rule)        |              |
-| 19   |          | Histogramas e CDFs                             |              |
-| 20   |          | Boas práticas de Visualização                  |              |
+| 19   |          | Revisão Probabilidade, Histogramas e CDFs      |              |
+| 20   |          | Comparando Distribuições                       |              |
 |      |          | **Machine Larning Básico**                     |              |
 | 21   |          | Clustering 01 K-Means                          |              |
 | 22   |          | Clustering 02 Gaussian Mixtures                |              |
 | 23   |          | Classificação 01 Árvores                       |              |
-| 24   |          | Classificação 02 Florestas e Ensembles         |              |
+| 24   |          | Classificação 02 Florestas/Ensembles           |              |
 | 25   |          | Dimensionalidade 01 PCA                        |              |
 | 26   |          | Dimensionalidade 02 TSNE                       |              |
 | 27   |          | Estudo de Caso                                 |              |
@@ -60,12 +60,16 @@ Aulas: --
   1. [Fundamentos Estatísticos para Ciência da Computação](http://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) <br>
      Renato Assunção <br>
      **Português**
+     
+  1. [Elements of Causal Inference: Foundations and Learning Algorithms ](http://www.math.ku.dk/~peters/elements.html) <br>
+     Jonas Peters, Dominik Janzing and Bernhard Schölkopf  <br>
+     **Apenas em inglês. Aberto!**
 
 ## Mais material
 
+- [Livro Aberto Jake Van Der Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Curso UFCG](https://github.com/nazareno/ciencia-de-dados-1)
-- [Livro Aberto JakeVDP](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Dados EVComp](https://github.com/flaviovdf/evcomp2018)
-- [Curso Nyu](https://github.com/briandalessandro/DataScienceCourse)
+- [Curso NYU](https://github.com/briandalessandro/DataScienceCourse)
 - [data 8 - Curso Caltech/Berkley](http://data8.org/)
 - [Formato do the straigh dope](https://github.com/zackchase/mxnet-the-straight-dope)
+- http://ruder.io/optimizing-gradient-descent/index.html
