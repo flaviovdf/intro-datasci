@@ -42,7 +42,7 @@ Aulas: --
 | 23   |          | Classificação 01 Árvores                       |              |
 | 24   |          | Classificação 02 Florestas/Ensembles           |              |
 | 25   |          | Dimensionalidade 01 PCA                        |              |
-| 26   |          | Dimensionalidade 02 TSNE                       |              |
+| 26   |          | Dimensionalidade 02 NMF (Recomendação)         |              |
 | 27   |          | Estudo de Caso                                 |              |
 | 28   |          | Estudo de Caso                                 |              |
 | 29   |          | Apresentação de Projetos                       |              |
