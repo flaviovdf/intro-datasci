@@ -18,9 +18,9 @@ Aulas: --
 | 01   |          | Apresentação do Curso e Python 101             |              |
 | 02   |          | Tabelas e Sumarização de Colunas               |              |
 | 03   |          | Correlação / Simpsons Paradox                  |              |
-| 04   |          | Inferência Bayesiana                           |              |
-| 05   |          | Causalidade 01                                 |              |
-| 06   |          | Causalidade 02                                 |              |
+| 04   |          | Correlação / Simpsons Paradox                  |              |
+| 05   |          | Inferência Bayesiana 01                        |              |
+| 06   |          | Inferência Bayesiana 02 (Causalidade)          |              |
 | 07   |          | Método Científico                              |              |
 | 08   |          | Testes de Hipótese p-vals (Permutation)        |              |
 | 09   |          | Testes de Hipótese ICs (Bootstrap)             |              |
@@ -30,8 +30,8 @@ Aulas: --
 | 12   |          | Verossimilhança de Dados                       |              |
 | 13   |          | Regressão Linear                               |              |
 | 14   |          | Gradient Descent e Newton-Raphson (Fittig/Vet) |              |
-| 15   |          | Regularização                                  |              |
-| 16   |          | Lasso                                          |              |
+| 15   |          | Gradient Descent e Newton-Raphson (Fittig/Vet) |              |
+| 16   |          | Regularização                                  |              |
 | 17   |          | Regressão Logística                            |              |
 | 18   |          | Interpretando coeficientes (div 4 rule)        |              |
 | 19   |          | Revisão Probabilidade, Histogramas e CDFs      |              |
@@ -40,9 +40,9 @@ Aulas: --
 | 21   |          | Clustering 01 K-Means                          |              |
 | 22   |          | Clustering 02 Gaussian Mixtures                |              |
 | 23   |          | Classificação 01 Árvores                       |              |
-| 24   |          | Classificação 02 Florestas/Ensembles           |              |
-| 25   |          | Dimensionalidade 01 PCA                        |              |
-| 26   |          | Dimensionalidade 02 NMF (Recomendação)         |              |
+| 24   |          | Classificação 02 Naive Bayes                   |              |
+| 25   |          | Validação Cruzada                              |              |
+| 26   |          | Dimensionalidade PCA/NMF (Recomendação)        |              |
 | 27   |          | Estudo de Caso                                 |              |
 | 28   |          | Estudo de Caso                                 |              |
 | 29   |          | Apresentação de Projetos                       |              |
