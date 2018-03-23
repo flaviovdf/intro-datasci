@@ -38,9 +38,9 @@ Aulas: --
 | 20   |          | Comparando Distribuições                       |              |
 |      |          | **Machine Larning Básico**                     |              |
 | 21   |          | Clustering 01 K-Means                          |              |
-| 22   |          | Clustering 02 Gaussian Mixtures                |              |
+| 22   |          | Clustering 02 Gaussian Mixtures (**mudar**)    |              |
 | 23   |          | Classificação 01 Árvores                       |              |
-| 24   |          | Classificação 02 Naive Bayes                   |              |
+| 24   |          | Classificação 02 Florestas                     |              |
 | 25   |          | Validação Cruzada                              |              |
 | 26   |          | Dimensionalidade PCA/NMF (Recomendação)        |              |
 | 27   |          | Estudo de Caso                                 |              |
