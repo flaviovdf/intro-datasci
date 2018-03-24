@@ -17,13 +17,13 @@ Aulas: --
 |      |          | **Basics**                                     |              |
 | 01   |          | Apresentação do Curso e Python 101             |              |
 | 02   |          | Tabelas e Sumarização de Colunas               |              |
-| 03   |          | Correlação / Simpsons Paradox                  |              |
-| 04   |          | Correlação / Simpsons Paradox                  |              |
-| 05   |          | Inferência Bayesiana 01                        |              |
-| 06   |          | Inferência Bayesiana 02 (Causalidade)          |              |
-| 07   |          | Método Científico                              |              |
-| 08   |          | Testes de Hipótese p-vals (Permutation)        |              |
-| 09   |          | Testes de Hipótese ICs (Bootstrap)             |              |
+| 03   |          | Correlação                                     |              |
+| 04   |          | Simpsons Paradox                               |              |
+| 05   |          | Método Científico                              |              |
+| 06   |          | Testes de Hipótese p-vals (Permutation)        |              |
+| 07   |          | Testes de Hipótese ICs (Bootstrap)             |              |
+| 08   |          | Inferência Bayesiana 01                        |              |
+| 09   |          | Inferência Bayesiana 02 (Causalidade)          |              |
 | 10   |          | Poder e Testes Múltiplos                       |              |
 |      |          | **Interpretando dados com Modelos Simples**    |              |
 | 11   |          | Matrizes e Revisão ALG                         |              |
@@ -38,7 +38,7 @@ Aulas: --
 | 20   |          | Comparando Distribuições                       |              |
 |      |          | **Machine Larning Básico**                     |              |
 | 21   |          | Clustering 01 K-Means                          |              |
-| 22   |          | Clustering 02 Gaussian Mixtures (**mudar**)    |              |
+| 22   |          | Clustering 02 Hierarchical                     |              |
 | 23   |          | Classificação 01 Árvores                       |              |
 | 24   |          | Classificação 02 Florestas                     |              |
 | 25   |          | Validação Cruzada                              |              |
