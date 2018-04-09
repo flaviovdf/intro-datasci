@@ -4,9 +4,9 @@
 
 # DCCXXX: Introdução a Ciência de Dados
 
-Professores: Flavio Figueiredo e Pedro Olmo
+Professores: Pedro Olmo e Flavio Figueiredo
 
-Aulas: --
+Aulas: 17h. Sala ainda não definida.
 
 ## Informes
 
