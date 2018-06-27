@@ -70,6 +70,7 @@ Aulas: 17h. Sala ainda não definida.
 
 ## Mais material
 
+- [Curso CMU](http://www.datasciencecourse.org/lectures/)
 - [Livro Aberto Jake Van Der Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Curso UFCG](https://github.com/nazareno/ciencia-de-dados-1)
 - [Curso NYU](https://github.com/briandalessandro/DataScienceCourse)
